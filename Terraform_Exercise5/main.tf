@@ -15,7 +15,7 @@ provider "aws" {
   # shared_credentials_file = "%UserProfile%/.aws/credentials"
   region   = "us-east-1"
   assume_role {
-    role_arn = "arn:aws:iam::578517095658:role/adminrole"
+    role_arn = "arn:aws:iam::xxxxxxxx:role/xxxxxxx"
     }
 
 }
