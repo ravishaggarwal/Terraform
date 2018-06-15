@@ -1,0 +1,18 @@
+VPC is : vpc-0b56c4431049d0c8e
+Subnets are : subnet-03b15381a20ac0039, subnet-04dc3ed5c3fdb0294
+Internet Gateways is : igw-0bc9ca804792b10e3
+Internet Gateways is : testbucket-4269, testbucket-54861
+Route is : rtb-06988f6162c7deec6
+Route is : sg-05841a72791c2a950
+VPC is : vpc-093159e2e948b9f47
+Subnets are : subnet-06310e9f3ed651828, subnet-0b90729533d7b1103
+Internet Gateways is : igw-048fdcddc68191356
+Internet Gateways is : testbucket-64459, testbucket-57599
+Route is : rtb-0a8cb23d6066ad9b4
+Route is : sg-0bd9bf785f2debf67
+VPC is : vpc-0db11ef9bcbf40c2a
+Subnets are : subnet-091e1762b1dd4dffd, subnet-0b17c7d328afff1d2
+Internet Gateways is : igw-074aff176c26dafaf
+Internet Gateways is : testbucket-20049, testbucket-32818
+Route is : rtb-09959805001192eab
+Route is : sg-0dc22f452bc2fb66f
