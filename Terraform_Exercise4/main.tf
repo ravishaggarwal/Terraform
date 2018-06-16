@@ -4,7 +4,7 @@ assume_role {
     role_arn = "arn:aws:iam::xxxxxxxxxx:role/xxxxxxx"
     }
 }
-resource "aws_vpc" "Mvpc23" {
+resource "aws_vpc" "Mvpc24" {
 
   cidr_block = "10.0.0.0/24"
   tags {
